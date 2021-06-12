@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Yogesh8121
 - 👀 I’m interested in Software Devlopment
-- 🌱 I’m currently learning Problem Solving on Codeforces and Data Structure and Algorithms.
+- 🌱 I’m currently learning Problem Solving on Codeforces and Data Structure Algorithms.
 - 📫 You can Contact me through my Email - Yogeshkumar8121198@gmail.com or Contact-No-+91 9982242736.
